@@ -1,0 +1,39 @@
+.image{
+    background-image: url("https://media.istockphoto.com/id/1457889029/photo/group-of-food-with-high-content-of-dietary-fiber-arranged-side-by-side.jpg?b=1&s=612x612&w=0&k=20&c=BON5S0uDJeCe66N9klUEw5xKSGVnFhcL8stPLczQd_8=");
+ background-size: cover;
+}
+.main-heading{
+    text-align: center;
+    font-size:45px;
+    color:black;
+    text-decoration: underline;
+    font-family: "Monoton";
+}
+.para{
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.butt{
+    
+    height: 36px;
+    width: 138px;
+    border-radius:2px;
+    border-width: 3px;
+    border-style:double;
+    border-top-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    border-top-left-radius: 15px;
+    border-color:yellowgreen;
+    padding: 2px;
+    font-weight: bold;
+    font-size: 15px;
+    background-color: rgb(188, 223, 117);
+    
+    
+    
+}
+.align{
+    text-align:center;
+    text-decoration: underline;
+}
